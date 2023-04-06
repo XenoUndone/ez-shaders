@@ -9,8 +9,7 @@ It will ask to run on your device because it is a exe file!!!
 
 ## have fun with your shiny world !!
 
-![Screenshot (41)](https://user-images.githubusercontent.com/92038535/230499014-5534f70a-96d8-40c3-b736-9c83d13ea107.png)
-
-![Screenshot (42)](https://user-images.githubusercontent.com/92038535/230499027-251178cb-04e7-4aa0-a1e2-1645292b9bcf.png)
-
-![Screenshot (43)](https://user-images.githubusercontent.com/92038535/230499035-64de071a-12d1-4678-8808-e3ef1cfe63e3.png)
+![Screenshot (40)](https://user-images.githubusercontent.com/92038535/230499898-40647934-792f-42a4-abe4-73da4ced4736.png)
+![Screenshot (41)](https://user-images.githubusercontent.com/92038535/230499907-fca73855-6662-4f9f-bac3-c17db471d945.png)
+![Screenshot (42)](https://user-images.githubusercontent.com/92038535/230499912-d0bd1e68-c733-4b0c-a451-8de3db48a29c.png)
+![Screenshot (43)](https://user-images.githubusercontent.com/92038535/230499948-19ec7746-78a2-491d-9df7-208b5868ce7f.png)
